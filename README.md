@@ -1,2 +1,1 @@
-# .github
-About KoalaLab
+![Koalalab-banner](assets/imgs/banner.png)
