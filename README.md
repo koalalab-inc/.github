@@ -1,1 +1,0 @@
-![Koalalab-banner](assets/imgs/banner.png)
