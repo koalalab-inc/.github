@@ -9,6 +9,6 @@ Modern build systems have become complex and with the rise in software supply ch
 KoalaLab aims to bring the security rigor and paradigms of production systems to build systems namely:
 
 - Security Posture Management(SCM)
-- Egress filtering to harden CI envrionment
+- Egress filtering to secure CI envrionment
 - Observability of CI/CD systems
 
