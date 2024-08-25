@@ -4,7 +4,11 @@ _Golden Images as a service_
 
 
 
-https://github.com/user-attachments/assets/d3754fd2-ad9a-44e9-93ee-27feef4b3b0a
+
+
+https://github.com/user-attachments/assets/c1ca9116-3abd-428a-94a7-295c09876de3
+
+
 
 
 
