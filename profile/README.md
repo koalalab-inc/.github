@@ -4,9 +4,10 @@ _Golden Images as a service_
 
 
 
+![Koala_Images](https://github.com/user-attachments/assets/4f77d6ae-ff58-46ca-884b-c8a7e8cd0222)
 
 
-https://github.com/user-attachments/assets/c1ca9116-3abd-428a-94a7-295c09876de3
+
 
 
 
