@@ -3,8 +3,8 @@ _Golden Images as a service_
 
 
 
-![Koala_system](https://github.com/user-attachments/assets/d174208f-b99c-4bdb-a01d-23057d1d1244)
 
+![Koala_Video](https://github.com/user-attachments/assets/d20795dc-716c-4722-9feb-0b866d3afb7e)
 
 
 
