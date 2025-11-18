@@ -4,7 +4,8 @@ _Enterprise-grade golden base container images_
 
 
 
-![Koala_Video](https://github.com/user-attachments/assets/d20795dc-716c-4722-9feb-0b866d3afb7e)
+
+![HowItWorks](https://github.com/user-attachments/assets/cfa7ae85-58c4-4d16-878a-9a4f4ecc7128)
 
 
 
